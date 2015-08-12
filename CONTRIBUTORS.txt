@@ -1,0 +1,6 @@
+Code Contributors
+=================
+Saurabh Kumar (gh: _theskumar / @theskumar)*
+Akkshay Arora (gh: akshayaurora / @quanon_akkshay)
+
+* Possesses commit rights
