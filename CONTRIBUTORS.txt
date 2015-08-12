@@ -2,5 +2,6 @@ Code Contributors
 =================
 Saurabh Kumar (gh: _theskumar / @theskumar)*
 Akkshay Arora (gh: akshayaurora / @quanon_akkshay)
+Amit Singh Sethi (gh: dusual / @Dusual)
 
 * Possesses commit rights
