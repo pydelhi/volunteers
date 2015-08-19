@@ -1,0 +1,27 @@
+[
+    {
+        "description": null, 
+        "slug": "administration", 
+        "title": "Administration"
+    }, 
+    {
+        "description": null, 
+        "slug": "location", 
+        "title": "Location"
+    }, 
+    {
+        "description": null, 
+        "slug": "marketing", 
+        "title": "Marketing"
+    }, 
+    {
+        "description": null, 
+        "slug": "speakers", 
+        "title": "Speaker's Affairs"
+    }, 
+    {
+        "description": null, 
+        "slug": "sponsors", 
+        "title": "Sponsor Affairs"
+    }
+]
