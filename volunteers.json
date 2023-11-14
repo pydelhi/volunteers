@@ -7,29 +7,12 @@
             "location"
         ], 
         "twitter_username": null
-    }, 
+    },  
     {
-        "name": "Alisha Aneja", 
+        "name": "Animesh Ghosh", 
         "photo_sqaure": null, 
         "teams": [
-            "sponsors"
-        ], 
-        "twitter_username": null
-    }, 
-    {
-        "name": "Amit Singh Sethi", 
-        "photo_sqaure": null, 
-        "teams": [
-            "speakers", 
-            "sponsors"
-        ], 
-        "twitter_username": null
-    }, 
-    {
-        "name": "Amit Tripathi", 
-        "photo_sqaure": null, 
-        "teams": [
-            "administration"
+            "speakers"
         ], 
         "twitter_username": null
     }, 
@@ -38,23 +21,6 @@
         "photo_sqaure": null, 
         "teams": [
             "speakers"
-        ], 
-        "twitter_username": null
-    }, 
-    {
-        "name": "Balaji", 
-        "photo_sqaure": null, 
-        "teams": [
-            "location", 
-            "speakers"
-        ], 
-        "twitter_username": null
-    }, 
-    {
-        "name": "Geetika Batra", 
-        "photo_sqaure": null, 
-        "teams": [
-            "sponsors"
         ], 
         "twitter_username": null
     }, 
@@ -68,18 +34,12 @@
         "twitter_username": null
     }, 
     {
-        "name": "Rajat Goyal", 
+        "name": "Animesh Ghosh", 
         "photo_sqaure": null, 
         "teams": [
-            "marketing"
-        ], 
-        "twitter_username": null
-    }, 
-    {
-        "name": "Sanyam Khurana", 
-        "photo_sqaure": null, 
-        "teams": [
-            "administration"
+            "marketing",
+            "administration",
+            "speakers"
         ], 
         "twitter_username": null
     }, 
@@ -100,13 +60,25 @@
             "administration"
         ], 
         "twitter_username": null
-    }, 
+    },
     {
-        "name": "Vinay Kumar Dhayia", 
+        "name": "Daksh Jain", 
         "photo_sqaure": null, 
         "teams": [
-            "location"
+            "design",
+            "marketing"
         ], 
         "twitter_username": null
-    }
+    }, 
+    {
+        "name": "Ishaan Arora", 
+        "photo_sqaure": null, 
+        "teams": [
+            "design",
+            "marketing",
+            "administration",
+            "speakers"
+        ], 
+        "twitter_username": null
+    } 
 ]
