@@ -80,5 +80,15 @@
             "speakers"
         ], 
         "twitter_username": null
-    } 
+    },
+    {
+        "name": "Lavanya Jain", 
+        "photo_sqaure": null, 
+        "teams": [
+            "marketing",
+            "administration",
+            "speakers"
+        ], 
+        "twitter_username": null
+    }
 ]
