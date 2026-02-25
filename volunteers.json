@@ -24,15 +24,7 @@
         ], 
         "twitter_username": null
     }, 
-    {
-        "name": "Jaidev Deshpande", 
-        "photo_sqaure": null, 
-        "teams": [
-            "location", 
-            "speakers"
-        ], 
-        "twitter_username": null
-    }, 
+     
     {
         "name": "Animesh Ghosh", 
         "photo_sqaure": null, 
@@ -81,14 +73,5 @@
         ], 
         "twitter_username": null
     },
-    {
-        "name": "Lavanya Jain", 
-        "photo_sqaure": null, 
-        "teams": [
-            "marketing",
-            "administration",
-            "speakers"
-        ], 
-        "twitter_username": null
-    }
+    
 ]
